@@ -1,0 +1,7 @@
+name: WGRegionCount
+version: '${project.version}'
+main: dev.snowz.wgregioncount.WGRegionCount
+api-version: '1.13'
+author: Snowz
+description: Adds a placeholder for number of players in a WorldGuard region.
+depend: [ PlaceholderAPI, WorldGuard ]
